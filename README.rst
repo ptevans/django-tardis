@@ -12,8 +12,8 @@ Detailed documentation is in the "docs" directory. (TODO)
 Quick start
 -----------
 
-1. Tardis must be the first app in your INSTALLED_APPS list. Add "polls" to your
-INSTALLED_APPS setting like this::
+1. Tardis must be the first app in your INSTALLED_APPS list. Add "tardis" to
+your INSTALLED_APPS setting like this::
 
     INSTALLED_APPS = [
         'tardis',
