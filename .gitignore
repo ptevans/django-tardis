@@ -90,3 +90,5 @@ ENV/
 
 # Jetbrains IDE project files
 .idea
+
+*.sqlite3
