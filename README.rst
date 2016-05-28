@@ -2,8 +2,10 @@
 Tardis
 =====
 
-Polls is a simple Django app to conduct Web-based polls. For each
-question, visitors can choose between a fixed number of answers.
+Tardis puts tooling around freeze_time to allow you to manage "now" in your
+application. Set your destination, set stops along the way, and start your trip.
+Register callbacks using signals to execute housekeeping code at each stop
+during the trip.
 
 Detailed documentation is in the "docs" directory. (TODO)
 
