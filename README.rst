@@ -1,5 +1,5 @@
 =====
-Tardis
+Django-Tardis
 =====
 
 Tardis puts tooling around freeze_time to allow you to manage "now" in your
