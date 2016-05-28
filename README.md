@@ -1,2 +1,5 @@
 # django-tardis
-A re-usable app for time traveling in Django
+A re-usable app for time traveling in Django (clearly not re-usable yet)
+
+Tardis puts tooling around freeze_time to allow you to manage "now" in your application. Set your destination, set stops along the way, and start your trip. Register callbacks using signals to execute housekeeping code at each stop during the trip.
+
