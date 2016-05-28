@@ -16,7 +16,7 @@ Including another URLconf
 from django.conf.urls import url
 from django.contrib import admin
 
-from tardis.views import what_time_is_it
+from example.simple_app.views import what_time_is_it
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
