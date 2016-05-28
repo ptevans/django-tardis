@@ -1,9 +1,6 @@
 from datetime import datetime, timedelta
 
 from django.http import HttpResponse
-from django.shortcuts import render
-
-from tardis.signals import destination_changed
 from tardis.models import Trip
 
 

@@ -5,7 +5,6 @@ from django.dispatch import receiver
 from django.test import override_settings
 from freezegun import freeze_time
 from freezegun.api import FakeDatetime
-
 from tardis.signals import travel_started, travel_step_completed
 
 

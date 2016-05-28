@@ -4,4 +4,4 @@ from django.apps import AppConfig
 
 
 class TardisConfig(AppConfig):
-    name = 'tardis'
+    name = 'sample-site.tardis'
